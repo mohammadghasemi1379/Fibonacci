@@ -8,7 +8,7 @@ the -x option is sequence lengths.
 ```
 $ php Fibonacci.php -x 10
 ```
-
+output:
 ```
 Your 'x' input is: 10 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55
